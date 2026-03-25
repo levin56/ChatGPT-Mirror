@@ -5,6 +5,8 @@
 
 ChatGPT Mirror 后台是一个 ChatGPT 镜像站，允许多账号共享管理。实现多人同时使用 ChatGPT 服务。
 
+已停止维护，请迁移至 [Grok Mirror](https://github.com/dairoot/Grok-Mirror)。
+
 ## 特点
 
 - 提供与官网同等的极致体验。
@@ -153,10 +155,6 @@ curl --location "${yourUrl}/v1/chat/completions" \
 ## FQA
 
 [简体中文 > 常见问题](./docs/faq-cn.md)
-
-## 加入群聊
-
-[Telegram](https://t.me/+34aYksZdq5ZhMzhl)
 
 ## 捐赠
 
